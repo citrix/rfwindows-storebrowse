@@ -10,7 +10,7 @@ Using Storebrowse utility, you can:
 
 **Note:**
 
-* Storebrowse Utility for Workspace app now supports NetScaler Gateway URL, for more details please refer to [https://developer-docs.citrix.com/projects/workspace-app-for-windows-storebrowse-utility/en/latest/](https://developer-docs.citrix.com/projects/workspace-app-for-windows-storebrowse-utility/en/latest/)
+* Storebrowse Utility for Workspace app for Windows 1808 now supports NetScaler Gateway URL, for more details please refer to [https://developer-docs.citrix.com/projects/workspace-app-for-windows-storebrowse-utility/en/latest/](https://developer-docs.citrix.com/projects/workspace-app-for-windows-storebrowse-utility/en/latest/)
 
 
 ## Using the Storebrowse utility
