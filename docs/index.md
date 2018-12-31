@@ -1,6 +1,6 @@
 # Storebrowse for Receiver for Windows
 
-Storebrowse is a command-line utility tool available with Receiver for Windows that you can use to customize Receiver by scripting the storebrowse utility. This version of Storebrowse (v1.0.1.44) utility is supported on Receiver for Windows Version 4.4 CU5, 4.7, 4.9, 4.9 CU1, 4.10, 4.10.1, 4.11 and 4.12.
+Storebrowse is a command-line utility tool available with Receiver for Windows that you can use to customize Receiver by scripting the storebrowse utility. This version of Storebrowse (v1.0.1.44) utility is supported on Receiver for Windows Version 4.4 CU5, 4.7, 4.9, 4.9 CU1, 4.9 CU2, 4.9 CU3, 4.9 CU4, 4.10, 4.10.1, 4.11 and 4.12.
 
 Using Storebrowse utility, you can:
 
